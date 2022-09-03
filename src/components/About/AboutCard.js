@@ -21,8 +21,7 @@ function AboutCard() {
 
             I am a Computer Science Grad Student at Lakehead University. 
             I enjoy problem-solving and coding. Always strive to bring 100% to the work I do.
-            I have worked on technologies like Python, Django, Flask, MySQL, PostgreSQL, MongoDB, HTML5, CSS, SharePoint,Power BI
-            and Java, C++ during my bachelor's. I have 19 months of professional work experience which helped me strengthen my experience in Python, Django and React.
+            I have worked on technologies like Python, Django, Flask, MySQL, PostgreSQL, MongoDB, HTML5, CSS, SharePoint,Power BI. I have 19 months of professional work experience which helped me strengthen my experience in Python, Django and React.
             I am passionate about developing complex applications that solve real-world problems impacting millions of users.
             Apart from coding, some other activities that I love to do!
           </p>

@@ -9,8 +9,7 @@ function TypeWriter() {
           "Software Engineer",
           "Data Analyst",
           "Front End Developer",
-          "Back End Developer",
-          
+          "Back End Developer",   
          
         ],
         autoStart: true,

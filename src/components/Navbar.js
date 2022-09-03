@@ -93,11 +93,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="http://www.logicstime.com/"
-                target="_blank"
-                rel="noreferrer"
+               as={Link}
+               to="/project"
+               onClick={() => updateExpanded(false)}
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                <ImBlog style={{ marginBottom: "2px" }} /> Experience
               </Nav.Link>
             </Nav.Item>
           </Nav>
